@@ -1,6 +1,6 @@
 # Источники ресурсов LudoDrop
 
-На экране открытия кейс стоит на смотровом верстаке арктической станции. Геометрия верстака, окна и прожекторов на напольных стойках создана в Three.js. Для обшивки и горного пейзажа использован ImageGen. Первые кадры, маски окна для снега и видеопревью каталога сняты с той же сцены. [Пример кадра Blacksite](unseal/courtyard/black.webp) · [Обшивка станции](cases/features/radar-service-wall.webp) · [Горизонт](cases/features/radar-horizon.webp)
+Кейс открывается на смотровом верстаке арктической станции. Верстак, окно и настенные металлические сетки смоделированы в Three.js. На крюках висят игровые 3D-модели из Counter-Strike 2 с оригинальными текстурами отделки. Для горного пейзажа использован ImageGen. Начальные кадры, маски окна и видеопревью каталога сняты с этой сцены. [AK-47 | Neon Rider](unseal/armory/ak-neon-rider.glb) · [AWP | Dragon Lore](unseal/armory/awp-dragon-lore.glb) · [Кадр Blacksite](unseal/courtyard/black.webp) · [Материал верстака](cases/features/bench-mat.webp) · [Горный пейзаж](cases/features/radar-horizon.webp)
 
 Сцена стола снабжения для кошелька и нижней панели нарисована для LudoDrop с помощью ImageGen. [Стол снабжения](rooms/supply-desk.webp)
 
