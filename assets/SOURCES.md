@@ -4,6 +4,10 @@
 
 Сцена стола снабжения для кошелька и нижней панели нарисована для LudoDrop с помощью ImageGen. [Стол снабжения](rooms/supply-desk.webp)
 
+## Контракт обмена
+
+Фон оружейной, корпус затвора и внутренняя камера терминала созданы для LudoDrop в ImageGen. Поверх корпуса Canvas рисует восемь подвижных лопастей, приводное кольцо, сканирующий луч и каретки с выбранными предметами. Фактура шлифованной стали создана процедурно. [Помещение](contracts/terminal-room.webp) · [Корпус](contracts/machine-housing.webp) · [Камера](contracts/machine-bore.webp) · [Сталь](contracts/terminal-steel.webp)
+
 ## Предметы и контейнеры CS2
 
 Для исходных коллекций идентификаторы, модели оружия, названия покрытий, редкость и ссылки на изображения взяты из снимка ByMykel/CSGO-API от 6 ноября 2026 года. Скины и контейнеры Valve загружены с CDN Steam Community и хранятся локально. Права на игровую графику и товарные знаки принадлежат Valve и соответствующим авторам. [Проект CSGO-API](https://github.com/ByMykel/CSGO-API) · [Каталог скинов](https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/skins.json) · [Каталог контейнеров](https://raw.githubusercontent.com/ByMykel/CSGO-API/main/public/api/en/crates.json)
