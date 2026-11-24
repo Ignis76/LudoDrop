@@ -1,6 +1,8 @@
 # Источники ресурсов LudoDrop
 
-Кейс открывается на смотровом верстаке арктической станции. Верстак, окно и настенные металлические сетки смоделированы в Three.js. На крюках висят игровые 3D-модели из Counter-Strike 2 с оригинальными текстурами отделки. Для горного пейзажа использован ImageGen. Начальные кадры, маски окна и видеопревью каталога сняты с этой сцены. [AK-47 | Neon Rider](unseal/armory/ak-neon-rider.glb) · [AWP | Dragon Lore](unseal/armory/awp-dragon-lore.glb) · [Кадр Blacksite](unseal/courtyard/black.webp) · [Материал верстака](cases/features/bench-mat.webp) · [Горный пейзаж](cases/features/radar-horizon.webp)
+На фоне «Вершина» кейсы открываются на гранитном гребне. Скальная площадка смоделирована в Three.js. По сторонам от контейнера лежат модели AK-47 и AWP из Counter-Strike 2 с игровыми текстурами. Панорама гор и фактура камня созданы для LudoDrop с помощью ImageGen. Из этой же сцены сняты фоны и прозрачные начальные кадры для устройств без WebGL. [Панорама](cases/features/summit-horizon.webp) · [Гранит](cases/features/summit-granite.webp) · [AK-47 | Neon Rider](unseal/armory/ak-neon-rider.glb) · [AWP | Dragon Lore](unseal/armory/awp-dragon-lore.glb) · [Кейс Blacksite](unseal/summit/black-closed.webp)
+
+«Мастерская» — исходная сцена открытия, выбранная по умолчанию. Верстак, окно и настенные сетки построены в Three.js. С этой сцены сняты начальные кадры, маски окна и видеопревью каталога. [Превью](unseal/courtyard/knife-preview.webm) · [Фактура верстака](cases/features/bench-mat.webp)
 
 Сцена стола снабжения для кошелька и нижней панели нарисована для LudoDrop с помощью ImageGen. [Стол снабжения](rooms/supply-desk.webp)
 
